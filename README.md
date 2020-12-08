@@ -28,5 +28,7 @@ This feature of project will save money required for security guards. Also, as i
 ## Benefits of the project
 
 •	Significantly reduces the need of security personnels.
+
 •	Reduction in Error, as in human based security system, chances of human errors always be present.
+
 •	Expenses will be plummeted tremendously because of no person will be there to check, so those expenditures will get obliviated, plus the whole will consume very low power as it is working on electronics devices.
