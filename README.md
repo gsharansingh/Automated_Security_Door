@@ -1,0 +1,2 @@
+# Automated_Security_Door
+The project is built in order to fully automate the entry and exit (a common path) into a place. Only the person carrying valid ID card (i.e. RFID Tag) would be able pass.  The project obliviates the need of security guards too, so this reduces expenses as well as provides a reliable, human-error free system. In addition this, an e-mail will be sent to security head who can override the security from his/her smartphone through google assistant or blynk app over the internet.
