@@ -3,8 +3,8 @@
 ## Table of contents
 * [General info](#general-info)
 * [List of components](#list-of-components)
-* [Working of the project](working-of-the-project)
-* [Benefits of the project](benefits-of-the-project)
+* [Working of the project](#working-of-the-project)
+* [Benefits of the project](#benefits-of-the-project)
 
 ## General info
 
